@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 /**
  * [SWEA] 1945. 간단한 소인수분해 (260620)
  *
- * 시간복잡도 :
+ * 시간복잡도 : O(logN)
  *
  * 풀이과정
  * - 1. 소인수분해 숫자를 nums에 저장하고 count 배열 생성
